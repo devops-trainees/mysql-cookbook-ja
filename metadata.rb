@@ -1,11 +1,8 @@
 name 'mysql'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'All Rights Reserved'
-description 'Installs/Configures mysql'
-long_description 'Installs/Configures mysql'
+description 'A basic mysql cookbook'
 version '0.1.0'
-chef_version '>= 14.0'
+maintainer 'Nisum Inc'
+maintainer_email 'jjahmed@nisum.com'
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
